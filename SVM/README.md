@@ -1,0 +1,1 @@
+I generated a dataset using custom functions and then classified it using the Support Vector Machine (SVM) method. I experimented with various options, such as different kernels, to optimize the classification performance.
